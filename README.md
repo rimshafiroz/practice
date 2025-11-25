@@ -1,2 +1,3 @@
 # practice
-This is a practicing Git repo
+This is a practicing Git repo.
+Author - Rimsha Firoz
